@@ -7,7 +7,7 @@ It uses a **Logistic Regression** model trained on the Titanic dataset.
 
 ## 🚀 Live Demo  
 
-👉 [Click here to open the app](https://your-streamlit-link-here)
+👉 [Click here to open the app](https://github.com/Sinchana5878/Titanic_Survival_Prediction_App.git)
 
 *(Replace the above link with your Streamlit app’s live URL once you deploy it.)*
 
